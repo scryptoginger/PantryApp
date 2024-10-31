@@ -1,0 +1,11 @@
+# .NET ignores
+PantryAppAPI/bin/
+PantryAppAPI/obj/
+
+# Node.js ignores
+pantry-app-frontend/node_modules/
+pantry-app-frontend/dist/
+
+# Environment and sensitive files
+**/appsettings.json
+**/.env
